@@ -1,0 +1,20 @@
+//CH1 LEARNING GO
+
+-Go is a compile language
+
+-Source code is compiled into machine code by a tool chain
+
+-Go run compiles the source code from one of more files whose names end in.go
+links them with libraries, then runs the executable file
+
+-Go natively handles unicode, so it can process text in all the world's languages
+
+-Go code is organized into packages which are similar to libraries or modules in other languages
+
+-A package consists of one or more .go source files in a single directory
+that define what the package does
+
+-Each Go package begins with a package declaration
+
+-In Go language, only import the packages that you need, else the program will
+not compile
